@@ -1,8 +1,8 @@
-.col-align {
+.col-align{
     text-align: center;
 }
 
-.center {
+.center{
     margin: 0;
     position: absolute;
     top: 50%;
@@ -11,6 +11,6 @@
     transform: translate(-50%, -50%);
 }
 
-.row-spacer {
+.row-spacer{
     margin-bottom: 2em;
 }
